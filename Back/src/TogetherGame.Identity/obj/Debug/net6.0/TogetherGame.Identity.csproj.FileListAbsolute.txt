@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\src\TogetherGame.Identity\bin\Debug\net6.0\TogetherGame.Identity.deps.json
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\src\TogetherGame.Identity\bin\Debug\net6.0\TogetherGame.Identity.dll
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\src\TogetherGame.Identity\bin\Debug\net6.0\TogetherGame.Identity.pdb
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\src\TogetherGame.Identity\obj\Debug\net6.0\TogetherGame.Identity.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\src\TogetherGame.Identity\obj\Debug\net6.0\TogetherGame.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\src\TogetherGame.Identity\obj\Debug\net6.0\TogetherGame.Identity.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\src\TogetherGame.Identity\obj\Debug\net6.0\TogetherGame.Identity.AssemblyInfo.cs
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\src\TogetherGame.Identity\obj\Debug\net6.0\TogetherGame.Identity.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\src\TogetherGame.Identity\obj\Debug\net6.0\TogetherGame.Identity.dll
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\src\TogetherGame.Identity\obj\Debug\net6.0\refint\TogetherGame.Identity.dll
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\src\TogetherGame.Identity\obj\Debug\net6.0\TogetherGame.Identity.pdb
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\src\TogetherGame.Identity\obj\Debug\net6.0\ref\TogetherGame.Identity.dll

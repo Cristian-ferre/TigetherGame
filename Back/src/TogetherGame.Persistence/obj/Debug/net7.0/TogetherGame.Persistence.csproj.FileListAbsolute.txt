@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\TogetherGame.Persistence\bin\Debug\net7.0\TogetherGame.Persistence.deps.json
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\TogetherGame.Persistence\bin\Debug\net7.0\TogetherGame.Persistence.dll
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\TogetherGame.Persistence\bin\Debug\net7.0\TogetherGame.Persistence.pdb
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.AssemblyInfo.cs
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.dll
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\TogetherGame.Persistence\obj\Debug\net7.0\refint\TogetherGame.Persistence.dll
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.pdb
+C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\TogetherGame.Persistence\obj\Debug\net7.0\ref\TogetherGame.Persistence.dll

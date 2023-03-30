@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Together.API", "TogetherGame.API\Together.API.csproj", "{73D4816C-8992-47D2-9E27-467879458905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TogetherGame.Domain", "TogetherGame.Domain\TogetherGame.Domain.csproj", "{6847ED81-D2EA-43CD-B816-A69B9372889A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TogetherGame.Identity", "TogetherGame.Identity\TogetherGame.Identity.csproj", "{7A23B06D-21F3-4D31-836F-E612D494F7A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TogetherGame.Persistence", "TogetherGame.Persistence\TogetherGame.Persistence.csproj", "{FBEF1924-566B-4BE4-AFCF-C593812AA66B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D4816C-8992-47D2-9E27-467879458905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D4816C-8992-47D2-9E27-467879458905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D4816C-8992-47D2-9E27-467879458905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D4816C-8992-47D2-9E27-467879458905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6847ED81-D2EA-43CD-B816-A69B9372889A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6847ED81-D2EA-43CD-B816-A69B9372889A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6847ED81-D2EA-43CD-B816-A69B9372889A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6847ED81-D2EA-43CD-B816-A69B9372889A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A23B06D-21F3-4D31-836F-E612D494F7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A23B06D-21F3-4D31-836F-E612D494F7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A23B06D-21F3-4D31-836F-E612D494F7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A23B06D-21F3-4D31-836F-E612D494F7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBEF1924-566B-4BE4-AFCF-C593812AA66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEF1924-566B-4BE4-AFCF-C593812AA66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEF1924-566B-4BE4-AFCF-C593812AA66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEF1924-566B-4BE4-AFCF-C593812AA66B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
