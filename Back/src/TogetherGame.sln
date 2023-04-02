@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TogetherGame.Identity", "To
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TogetherGame.Persistence", "TogetherGame.Persistence\TogetherGame.Persistence.csproj", "{FBEF1924-566B-4BE4-AFCF-C593812AA66B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TogetherGame.Application", "TogetherGame.Application\TogetherGame.Application.csproj", "{F28D06D2-5119-4BDE-9C3F-93904775238A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{FBEF1924-566B-4BE4-AFCF-C593812AA66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBEF1924-566B-4BE4-AFCF-C593812AA66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBEF1924-566B-4BE4-AFCF-C593812AA66B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28D06D2-5119-4BDE-9C3F-93904775238A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28D06D2-5119-4BDE-9C3F-93904775238A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28D06D2-5119-4BDE-9C3F-93904775238A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28D06D2-5119-4BDE-9C3F-93904775238A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

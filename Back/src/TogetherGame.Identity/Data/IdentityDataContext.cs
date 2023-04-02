@@ -3,10 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace TogetherGame.Identity.Data
 {
-    public class IdentityDataContext :IdentityDbContext
+    public class IdentityDataContext : IdentityDbContext
     {
         //Criação do contrutor
-
         public IdentityDataContext(DbContextOptions<IdentityDataContext> Options) : base(Options)
         {
             

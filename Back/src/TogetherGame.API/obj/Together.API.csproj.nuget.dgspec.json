@@ -1,17 +1,100 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_ogether_Game\\back\\src\\TogetherGame.API\\Together.API.csproj": {}
+    "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.API\\Together.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_ogether_Game\\back\\src\\TogetherGame.API\\Together.API.csproj": {
+    "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.API\\Together.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_ogether_Game\\back\\src\\TogetherGame.API\\Together.API.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.API\\Together.API.csproj",
         "projectName": "Together.API",
-        "projectPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_ogether_Game\\back\\src\\TogetherGame.API\\Together.API.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.API\\Together.API.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_ogether_Game\\back\\src\\TogetherGame.API\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj"
+              },
+              "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Persistence\\TogetherGame.Persistence.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Persistence\\TogetherGame.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj",
+        "projectName": "TogetherGame.Identity",
+        "projectPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,13 +121,21 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[7.0.4, )"
             },
-            "Swashbuckle.AspNetCore": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
             }
           },
           "imports": [
@@ -59,9 +150,71 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Persistence\\TogetherGame.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Persistence\\TogetherGame.Persistence.csproj",
+        "projectName": "TogetherGame.Persistence",
+        "projectPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Persistence\\TogetherGame.Persistence.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

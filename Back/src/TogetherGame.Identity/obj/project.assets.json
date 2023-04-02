@@ -3630,11 +3630,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_ogether_Game\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj",
       "projectName": "TogetherGame.Identity",
-      "projectPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_ogether_Game\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_ogether_Game\\back\\src\\TogetherGame.Identity\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Identity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
