@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IJm5Fz/RQYsBKHthjAmGkPphVYL4Y98eDk/XqEdJq9k9meGq+cN5cwCYYzV5azNxHqLx9UUT++EEuWQ3tiueqg==",
+  "dgSpecHash": "F10SEZ25IXdTXCl9+A2dLlw5bGxyzB47N0cZshwCItf+HhljKb1RC3TYvlZ9fybUwVMYf0vbG0x578OZH/VhFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Application\\TogetherGame.Application.csproj",
+  "projectFilePath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_ogether_Game\\back\\src\\TogetherGame.Domain\\TogetherGame.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

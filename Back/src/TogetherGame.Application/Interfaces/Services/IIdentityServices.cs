@@ -3,7 +3,7 @@ using TogetherGame.Application.DTOs.Response;
 
 namespace TogetherGame.Application.Interfaces.Services
 {
-    public class IdentityServices
+    public class IIdentityServices
     {
         //Crio dois metodos
         Task<UsuarioCadastroResponse> CadastrarUsuario(UsuarioCadastroRequest usuarioCadastro);
