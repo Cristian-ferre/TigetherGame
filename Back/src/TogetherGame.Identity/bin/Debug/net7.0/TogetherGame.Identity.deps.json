@@ -11,7 +11,8 @@
           "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.4",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.4",
           "Microsoft.AspNetCore.Identity.UI": "7.0.4",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.4"
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.4",
+          "TogetherGame.Application": "1.0.0"
         },
         "runtime": {
           "TogetherGame.Identity.dll": {}
@@ -653,6 +654,11 @@
             "fileVersion": "5.0.20.51904"
           }
         }
+      },
+      "TogetherGame.Application/1.0.0": {
+        "runtime": {
+          "TogetherGame.Application.dll": {}
+        }
       }
     }
   },
@@ -1151,6 +1157,11 @@
       "sha512": "sha512-c1ho9WU9ZxMZawML+ssPKZfdnrg/OjR3pe0m9v8230z3acqphwvPJqzAkH54xRYm5ntZHGG1EPP3sux9H3qSPg==",
       "path": "system.windows.extensions/5.0.0",
       "hashPath": "system.windows.extensions.5.0.0.nupkg.sha512"
+    },
+    "TogetherGame.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

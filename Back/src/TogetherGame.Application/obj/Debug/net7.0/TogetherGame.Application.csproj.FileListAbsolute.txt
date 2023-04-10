@@ -1,0 +1,12 @@
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Application\bin\Debug\net7.0\TogetherGame.Application.deps.json
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Application\bin\Debug\net7.0\TogetherGame.Application.dll
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Application\bin\Debug\net7.0\TogetherGame.Application.pdb
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Application\obj\Debug\net7.0\TogetherGame.Application.csproj.AssemblyReference.cache
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Application\obj\Debug\net7.0\TogetherGame.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Application\obj\Debug\net7.0\TogetherGame.Application.AssemblyInfoInputs.cache
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Application\obj\Debug\net7.0\TogetherGame.Application.AssemblyInfo.cs
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Application\obj\Debug\net7.0\TogetherGame.Application.csproj.CoreCompileInputs.cache
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Application\obj\Debug\net7.0\TogetherGame.Application.dll
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Application\obj\Debug\net7.0\refint\TogetherGame.Application.dll
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Application\obj\Debug\net7.0\TogetherGame.Application.pdb
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Application\obj\Debug\net7.0\ref\TogetherGame.Application.dll

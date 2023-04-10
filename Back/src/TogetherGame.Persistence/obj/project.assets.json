@@ -1120,6 +1120,16 @@
             "rid": "win"
           }
         }
+      },
+      "TogetherGame.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/TogetherGame.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TogetherGame.Domain.dll": {}
+        }
       }
     }
   },
@@ -3415,39 +3425,51 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "TogetherGame.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TogetherGame.Domain/TogetherGame.Domain.csproj",
+      "msbuildProject": "../TogetherGame.Domain/TogetherGame.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.EntityFrameworkCore.Design >= 7.0.4",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.4"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.4",
+      "TogetherGame.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\96343\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Persistence\\TogetherGame.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Persistence\\TogetherGame.Persistence.csproj",
       "projectName": "TogetherGame.Persistence",
-      "projectPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Persistence\\TogetherGame.Persistence.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Persistence\\obj\\",
+      "projectPath": "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Persistence\\TogetherGame.Persistence.csproj",
+      "packagesPath": "C:\\Users\\96343\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\96343\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Domain\\TogetherGame.Domain.csproj": {
+              "projectPath": "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Domain\\TogetherGame.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

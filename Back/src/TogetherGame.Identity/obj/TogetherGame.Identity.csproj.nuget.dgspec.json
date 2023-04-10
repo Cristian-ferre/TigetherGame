@@ -1,31 +1,92 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj": {}
+    "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj": {
+    "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Application\\TogetherGame.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj",
-        "projectName": "TogetherGame.Identity",
-        "projectPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_togethergame\\back\\src\\TogetherGame.Identity\\obj\\",
+        "projectUniqueName": "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Application\\TogetherGame.Application.csproj",
+        "projectName": "TogetherGame.Application",
+        "projectPath": "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Application\\TogetherGame.Application.csproj",
+        "packagesPath": "C:\\Users\\96343\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\96343\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj",
+        "projectName": "TogetherGame.Identity",
+        "projectPath": "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Identity\\TogetherGame.Identity.csproj",
+        "packagesPath": "C:\\Users\\96343\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\96343\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Application\\TogetherGame.Application.csproj": {
+                "projectPath": "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Application\\TogetherGame.Application.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -22,3 +22,15 @@ C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\Tog
 C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\TogetherGame.Domain\obj\Debug\net7.0\refint\TogetherGame.Domain.dll
 C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\TogetherGame.Domain\obj\Debug\net7.0\TogetherGame.Domain.pdb
 C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_ogether_Game\back\src\TogetherGame.Domain\obj\Debug\net7.0\ref\TogetherGame.Domain.dll
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Domain\bin\Debug\net7.0\TogetherGame.Domain.deps.json
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Domain\bin\Debug\net7.0\TogetherGame.Domain.dll
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Domain\bin\Debug\net7.0\TogetherGame.Domain.pdb
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Domain\obj\Debug\net7.0\TogetherGame.Domain.csproj.AssemblyReference.cache
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Domain\obj\Debug\net7.0\TogetherGame.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Domain\obj\Debug\net7.0\TogetherGame.Domain.AssemblyInfoInputs.cache
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Domain\obj\Debug\net7.0\TogetherGame.Domain.AssemblyInfo.cs
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Domain\obj\Debug\net7.0\TogetherGame.Domain.csproj.CoreCompileInputs.cache
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Domain\obj\Debug\net7.0\TogetherGame.Domain.dll
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Domain\obj\Debug\net7.0\refint\TogetherGame.Domain.dll
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Domain\obj\Debug\net7.0\TogetherGame.Domain.pdb
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Domain\obj\Debug\net7.0\ref\TogetherGame.Domain.dll

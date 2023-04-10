@@ -24,3 +24,20 @@ C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_togethergame\back\src\Tog
 C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_togethergame\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.pdb
 C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_togethergame\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.genruntimeconfig.cache
 C:\Users\User\OneDrive - sgiweb.com.br\Desktop\projeto_togethergame\back\src\TogetherGame.Persistence\obj\Debug\net7.0\ref\TogetherGame.Persistence.dll
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\bin\Debug\net7.0\TogetherGame.Persistence.deps.json
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\bin\Debug\net7.0\TogetherGame.Persistence.runtimeconfig.json
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\bin\Debug\net7.0\TogetherGame.Persistence.dll
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\bin\Debug\net7.0\TogetherGame.Persistence.pdb
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.csproj.AssemblyReference.cache
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.AssemblyInfoInputs.cache
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.AssemblyInfo.cs
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.dll
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\obj\Debug\net7.0\refint\TogetherGame.Persistence.dll
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.pdb
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.genruntimeconfig.cache
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\obj\Debug\net7.0\ref\TogetherGame.Persistence.dll
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\bin\Debug\net7.0\TogetherGame.Domain.dll
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\bin\Debug\net7.0\TogetherGame.Domain.pdb
+C:\Users\96343\Desktop\projeto_togethergame\TogetherGame\back\src\TogetherGame.Persistence\obj\Debug\net7.0\TogetherGame.Persistence.csproj.CopyComplete

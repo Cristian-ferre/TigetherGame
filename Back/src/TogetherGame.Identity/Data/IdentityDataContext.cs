@@ -10,6 +10,5 @@ namespace TogetherGame.Identity.Data
         {
             
         }
-        
     }
 }

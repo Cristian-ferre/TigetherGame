@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_ogether_Game\\back\\src\\TogetherGame.Domain\\TogetherGame.Domain.csproj": {}
+    "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Domain\\TogetherGame.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_ogether_Game\\back\\src\\TogetherGame.Domain\\TogetherGame.Domain.csproj": {
+    "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Domain\\TogetherGame.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_ogether_Game\\back\\src\\TogetherGame.Domain\\TogetherGame.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Domain\\TogetherGame.Domain.csproj",
         "projectName": "TogetherGame.Domain",
-        "projectPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_ogether_Game\\back\\src\\TogetherGame.Domain\\TogetherGame.Domain.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive - sgiweb.com.br\\Desktop\\projeto_ogether_Game\\back\\src\\TogetherGame.Domain\\obj\\",
+        "projectPath": "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Domain\\TogetherGame.Domain.csproj",
+        "packagesPath": "C:\\Users\\96343\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\96343\\Desktop\\projeto_togethergame\\TogetherGame\\back\\src\\TogetherGame.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\96343\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

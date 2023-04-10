@@ -5,19 +5,19 @@ using Microsoft.Extensions.Options;
 using TogetherGame.Application.DTOs.Request;
 using TogetherGame.Application.DTOs.Response;
 using TogetherGame.Application.Interfaces.Services;
-
+using TogetherGame.Identity.Configurations;
 
 namespace TogetherGame.Identity.Services
 {
-    public class IdentityService : IIdentityServices
+    public class IdentityService : IIdentityService
     {
         private readonly SignInManager<IdentityUser> _signInManager;
         private readonly UserManager<IdentityUser> _userManager;
-        private readonly JwtOptions _jwtOptions;
+        private readonly JWTOptions _jwtOptions;
 
         public IdentityService(SignInManager<IdentityUser> signInManager,
                                UserManager<IdentityUser> userManager,
-                               IOptions<JwtOptions> jwtOptions)
+                               IOptions<JWTOptions> jwtOptions)
         {
             _signInManager = signInManager;
             _userManager = userManager;
@@ -62,7 +62,6 @@ namespace TogetherGame.Identity.Services
                 else
                     usuarioLoginResponse.AdicionarErro("Usuário ou senha estão incorretos");
             }
-
             return usuarioLoginResponse;
         }
 
