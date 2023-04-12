@@ -23,6 +23,8 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("conexaoPadrao"))
 
 var app = builder.Build();
 
+
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

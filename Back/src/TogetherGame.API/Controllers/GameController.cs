@@ -5,7 +5,6 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace TogetherGame.API.Controllers
 {
-[Authorize]
     [ApiController]
     [Route("[controller]")]
     public class GameController : ControllerBase
@@ -17,16 +16,21 @@ namespace TogetherGame.API.Controllers
             _context = context;
         }
 
-        
+        [Authorize]
         [HttpPost]
         public IActionResult CriarGame(Game game)
         {
             _context.Games.Add(game);
             _context.SaveChanges();
             return Ok(game);
-
         }
-
-
+        
+        [Authorize]
+        [HttpGet("{id}")]
+        public IActionResult BuscarGame(int id)
+        {
+            var game = _context.Games.Find(id);
+            return Ok(game);
+        }
     }
 }

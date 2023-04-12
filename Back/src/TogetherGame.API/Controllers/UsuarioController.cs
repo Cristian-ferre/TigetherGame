@@ -48,11 +48,5 @@ namespace TogetherGame.API.Controllers
 
             return Unauthorized(resultado);
         }
-
-
-
-
-
-
     }
 }
