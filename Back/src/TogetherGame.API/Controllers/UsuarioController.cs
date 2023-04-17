@@ -1,11 +1,9 @@
-using System.Net;
-using Microsoft.AspNetCore.Identity;
+
 using Microsoft.AspNetCore.Mvc;
 using TogetherGame.Application.DTOs.Request;
 using TogetherGame.Application.DTOs.Response;
 using TogetherGame.Application.Interfaces.Services;
-using Microsoft.AspNetCore.Http;
-using Hellang.Middleware.ProblemDetails;
+
 
 namespace TogetherGame.API.Controllers
 {
